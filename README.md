@@ -1,4 +1,4 @@
-# GitHub Action: Run eslint with reviewdog
+# GitHub Action: Run eslint with reviewdognnnn
 
 [![depup](https://github.com/reviewdog/action-eslint/workflows/depup/badge.svg)](https://github.com/reviewdog/action-eslint/actions?query=workflow%3Adepup)
 [![release](https://github.com/reviewdog/action-eslint/workflows/release/badge.svg)](https://github.com/reviewdog/action-eslint/actions?query=workflow%3Arelease)
